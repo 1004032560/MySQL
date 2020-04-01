@@ -10,11 +10,11 @@
 
 默认的文件，属于隐藏文件，打开时，需要打开：查看，选择隐藏的项目
 
-![1](C:\Users\Administrator\Desktop\delete\1.png)
+![1](https://github.com/1004032560/MySQL/blob/master/image/01-01.png?raw=true)
 
 
 
-![2](C:\Users\Administrator\Desktop\delete\2.png)
+![2](https://github.com/1004032560/MySQL/blob/master/image/01-02.png?raw=true)
 
 
 
@@ -26,7 +26,7 @@
 
  注意：`MySQL80`是安装解压包时自动安装的，`MySQL`是你自己又初始化后安装的，都停止掉
 
-![3](C:\Users\Administrator\Desktop\delete\3.png)
+![3](https://github.com/1004032560/MySQL/blob/master/image/01-03.png?raw=true)
 
  ![4](C:\Users\Administrator\Desktop\delete\4.png)
 
@@ -36,15 +36,15 @@
 
 设置->控制面板->程序和功能->找到和`MySQL`相关的都卸载掉
 
-![5](C:\Users\Administrator\Desktop\delete\5.png)
+![5](https://github.com/1004032560/MySQL/blob/master/image/01-04.png?raw=true)
 
 
 
-![6](C:\Users\Administrator\Desktop\delete\6.png)
+![6](https://github.com/1004032560/MySQL/blob/master/image/01-05.png?raw=true)
 
 
 
-![7](C:\Users\Administrator\Desktop\delete\7.png)
+![7](https://github.com/1004032560/MySQL/blob/master/image/01-06.png?raw=true)
 
 
 
@@ -74,11 +74,11 @@
 
 如果没有相应的文件夹，就不用删除了。
 
-![8](C:\Users\Administrator\Desktop\delete\8.png)
+![8](https://github.com/1004032560/MySQL/blob/master/image/01-07.png?raw=true)
 
 
 
-![9](C:\Users\Administrator\Desktop\delete\9.png)
+![9](https://github.com/1004032560/MySQL/blob/master/image/01-09.png?raw=true)
 
 
 
