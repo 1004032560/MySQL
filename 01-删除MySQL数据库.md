@@ -28,7 +28,7 @@
 
 ![3](https://github.com/1004032560/MySQL/blob/master/image/01-03.png?raw=true)
 
- ![4](C:\Users\Administrator\Desktop\delete\4.png)
+ ![4](https://github.com/1004032560/MySQL/blob/master/image/01-04.png?raw=true)
 
 
 
@@ -36,15 +36,15 @@
 
 设置->控制面板->程序和功能->找到和`MySQL`相关的都卸载掉
 
-![5](https://github.com/1004032560/MySQL/blob/master/image/01-04.png?raw=true)
+![5](https://github.com/1004032560/MySQL/blob/master/image/01-05.png?raw=true)
 
 
 
-![6](https://github.com/1004032560/MySQL/blob/master/image/01-05.png?raw=true)
+![6](https://github.com/1004032560/MySQL/blob/master/image/01-06.png?raw=true)
 
 
 
-![7](https://github.com/1004032560/MySQL/blob/master/image/01-06.png?raw=true)
+![7](https://github.com/1004032560/MySQL/blob/master/image/01-07.png?raw=true)
 
 
 
@@ -74,7 +74,7 @@
 
 如果没有相应的文件夹，就不用删除了。
 
-![8](https://github.com/1004032560/MySQL/blob/master/image/01-07.png?raw=true)
+![8](https://github.com/1004032560/MySQL/blob/master/image/01-08.png?raw=true)
 
 
 
