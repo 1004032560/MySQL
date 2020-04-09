@@ -40,6 +40,26 @@ create table scores(
 
 
 
+修改默认值：
+
+~~~~mysql
+alter table employees alter column employeeRole set default "common";
+~~~~
+
+删除默认值：
+
+~~~mysql
+alter table employees alter column employeeRole drop default;
+~~~
+
+
+
+修改外键：
+
+在`Navicat`中设计外键，需要在外键栏中设计好之后，再在索引栏中，将外键名，栏位（当前表中，外键的字段），索引类型（默认`Normal`），索引方法（默认`BTREE`）。
+
+
+
 显示学生的名字和课程编号以及分数
 
 ~~~mysql
