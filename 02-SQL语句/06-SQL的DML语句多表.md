@@ -52,7 +52,11 @@ alter table employees alter column employeeRole set default "common";
 alter table employees alter column employeeRole drop default;
 ~~~
 
+修改自动增长开始的值：
 
+~~~mysql
+alter table customer alter column id  AUTO_INCREMENT=104;
+~~~
 
 修改外键：
 
